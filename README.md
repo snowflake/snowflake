@@ -19,4 +19,5 @@ Find me on CIX as devans
 I'm currently working on submitting a bug report to Grandstream
 regarding their implementation of IPv6 and IPv4 on some of their phones.
 
-For details, see [Grandstream Analysis](https://github.com/snowflake/grandstream-prefer-ipv6-bug.wiki)
+For details, see [Grandstream Analysis](https://github.com/snowflake/grandstream-prefer-ipv6-bug/wiki) Wiki here on Github.
+
