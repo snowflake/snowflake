@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Find me on CIX as devans
 
 I'm currently working on submitting a bug report to Grandstream
-regarding their implementation of IPv6 and IPv4 on some of their phones.
+regarding their implementation of Prefer IPv6 and Prefer IPv4 modes on some of their phones, particularly my GRP2612.
 
-For details, see [Grandstream Analysis](https://github.com/snowflake/grandstream-prefer-ipv6-bug/wiki) Wiki here on Github.
+For details, see [Grandstream Network Protocol Prefer Mode](https://github.com/snowflake/grandstream-prefer-ipv6-bug/wiki) Wiki here on Github.
 
